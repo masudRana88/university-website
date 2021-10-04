@@ -1,10 +1,12 @@
 import React from 'react';
-import Header from '../../components/Header/Header';
+import HeroSection from '../../components/HeroSection/HeroSection';
+import PopulerCourses from '../../components/PopulerCourses/PopulerCourses';
 
 const Home = () => {
     return (
         <div>
-            <Header></Header>
+            <HeroSection />
+            <PopulerCourses/>
         </div>
     );
 };

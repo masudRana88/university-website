@@ -1,0 +1,35 @@
+.header-info{
+    height: 40px;
+}
+.social-icon{
+    width: 190px;
+    background-color: #2D3092;
+}
+.social-icon i{
+    font-size: 20px;
+    color: white;
+    padding: 0 5px;
+}
+.hader-contact{
+    width: 450px;
+    padding: 5px 0px;
+}
+.hader-contact p{
+    font-size: 16px;
+    color: #8B8C8F;
+}
+.header-user{
+    width: 100%;
+}
+.header-user p{
+    vertical-align: middle;
+}
+.header-user span{
+    margin-left: 20px;
+    color: #8C8D8F;
+    font-weight: 600;
+}
+.header-user i{
+    color: #2A2C7F;
+    font-size: 20px;
+}

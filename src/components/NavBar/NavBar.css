@@ -1,0 +1,8 @@
+.btn-reguler{
+    outline: #2A2C7F;
+    border: 1px solid #6d6eb6;
+}
+.btn-reguler:hover{
+    background-color: #2A2C7F;
+    color: white;
+}
