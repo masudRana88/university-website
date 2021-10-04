@@ -1,5 +1,5 @@
-.populer-container{
-    margin-bottom: 100px;
+.coursess-container{
+    margin-bottom: 80px;
 }
 .section-name{
     font-family: 'Roboto', sans-serif;
@@ -8,6 +8,7 @@
     color: #54B8FF;
 }
 .section-title{
+    margin-top: 50px;
     margin-bottom: 50px;
     font-family: 'Roboto', sans-serif;
 }

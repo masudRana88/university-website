@@ -1,6 +1,13 @@
+.footer{
+      padding-bottom: 2.5rem;
+}
 footer{
     height: 50px;
     background-color: #0B0B1D;
     color: white;
-
+    position:absolute;
+    top: 100%;
+    left:0;
+    bottom:0;
+    right:0;
 }

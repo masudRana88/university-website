@@ -10,10 +10,13 @@ import {
 import About from './pages/About/About';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
+import Coursess from './pages/Coursess/Coursess';
+import Instructors from './pages/Instructors/Instructors';
+import Contact from './pages/Contact/Contact';
 
 function App() {
   return (
-    <div>
+    <div className="app">
       <Router>
         <Header></Header>
         <Switch>
@@ -26,17 +29,14 @@ function App() {
           <Route path="/about">
             <About/>
           </Route>
-          <Route path="/home">
-            <Home/>
+          <Route path="/courses">
+            <Coursess/>
           </Route>
-          <Route path="/home">
-            <Home/>
+          <Route path="/instructors">
+            <Instructors/>
           </Route>
-          <Route path="/home">
-            <Home/>
-          </Route>
-          <Route path="/home">
-            <Home/>
+          <Route path="/contsct">
+            <Contact/>
           </Route>
         </Switch>
         <Footer/>
