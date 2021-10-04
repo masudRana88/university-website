@@ -13,6 +13,7 @@ import Footer from './components/Footer/Footer';
 import Coursess from './pages/Coursess/Coursess';
 import Instructors from './pages/Instructors/Instructors';
 import Contact from './pages/Contact/Contact';
+import NotFound from './pages/NotFound/NotFound';
 
 function App() {
   return (
@@ -23,20 +24,23 @@ function App() {
           <Route exact path="/">
             <Home/>
           </Route>
-          <Route path="/home">
+          <Route exact path="/home">
             <Home/>
           </Route>
-          <Route path="/about">
+          <Route exact path="/about">
             <About/>
           </Route>
-          <Route path="/courses">
+          <Route exact path="/courses">
             <Coursess/>
           </Route>
-          <Route path="/instructors">
+          <Route exact path="/instructors">
             <Instructors/>
           </Route>
-          <Route path="/contsct">
+          <Route exact path="/contsct">
             <Contact/>
+          </Route>
+          <Route path="*">
+            <NotFound/>
           </Route>
         </Switch>
         <Footer/>
