@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Bachelor of Business Administration (BBA)",
+    "description": "The Bachelor of Business Administration (BBA) Program aims at training the boys and girls for this act and providing clear understanding of the functioning of business from theoretical, practical, and managerial perspectives. The BBA degree is offered with a choice of majors in Finance, Accounting, Marketing, Management, HRM and MIS.",
+    "rating": 5,
+    "tuitionFees": "25k",
+    "img": "https://thevakundo.com//college-courses/1611313778672-ac.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Master of Business Administration (MBA)",
+    "description": "A master of business administration (MBA) is a graduate degree that provides theoretical and practical training for business or investment management. An MBA is designed to help graduates gain a better understanding of general business management functions. An MBA degree can have a general focus or a specific focus in fields such as accounting, finance, or marketing, and relationship management.",
+    "rating": 4,
+    "tuitionFees": "27k",
+    "img": "https://business.csuohio.edu/sites/default/files/MBA_slider_72dpi_2018.png"
+  },
+  {
+    "id": 3,
+    "title": "Bachelor Political science",
+    "description": "Political science involves the study of politics and the state. Bachelor Political Science professionals are in increased demand as social media is playing a role in the increased awareness of government and due process. Political science professionals with an understanding of human behavior can have great career advancement and growth potential.",
+    "rating": 5,
+    "tuitionFees": "21k",
+    "img": "https://www.bu.edu/polisci/files/2017/01/declaration-of-indepence.jpg"
+  },
+  {
+    "id": 4,
+    "title": "B. Arch – Bachelor of Architecture",
+    "description": "The Bachelor of Architecture (B.Arch.) is a bachelor's degree designed to satisfy the academic requirement of practising architecture around the world.",
+    "rating": 5,
+    "tuitionFees": "29k",
+    "img": "B. Arch – Bachelor of Architecture"
+  },
+  {
+    "id": 5,
+    "title": "B.Sc. in Computer Science & Engineering",
+    "description": "A computer system is a means to solve some of today's existing problems. The problems in the developing world are more pressing than the problems of the developed world. How well a computer system has solved a problem depends on how well the concerned professional has tailored the hardware and software to suit the needs of the situation or subject at hand.",
+    "rating": 4.5,
+    "tuitionFees": "30k",
+    "img": "https://i.ytimg.com/vi/rWlFLPGre6M/maxresdefault.jpg"
+  },
+  {
+    "id": 6,
+    "title": "BA (Hons) in English",
+    "description": "BA English Hons is a 3 year undergraduate course which comes under the field of humanities and arts. BA English (Hons) syllabus teaches the students about the development of the English language and literature into modern society through drama, poetry, novel and plays. The BA English (Hons) is a 3 year course and it is provided by all the major institutes, colleges and universities across the globe. ",
+    "rating": 4,
+    "tuitionFees": "30k",
+    "img": "https://www.duupdates.in/wp-content/uploads/2017/07/MA-English.jpg"
+  },
+  {
+    "id": 7,
+    "title": "B.Sc. in Food Engineering & Technology",
+    "description": "The Department of Food Engineering & Technology prepares students to cater to the ever increasing demand of various facets of food in business and industry. Nowadays food consumers are more conscious about their food and health requirements. Food industries play the dual role of making food safe and good, as well as contribute to the enhancement of national economic growth by using skilled and qualified  food engineers and technologists  but there is lack of qualified food engineers and technologists in Bangladesh. The mission of Food Engineering & Technology department is to produce skilled and qualified manpower for ensuring the production of safe food as well as for the food business. Recent advances and development in Food Engineering & Technology has had dramatic impact on the food production, processing and packaging methods towards safer, tasty & quality foods. Career in Food Engineering & Technology is diverse and challenging. Qualification in food will help students to pursue careers in food industries as well as in research.",
+    "rating": 4,
+    "tuitionFees": "30k",
+    "img": "https://apnaahangout.com/wp-content/uploads/2019/02/BSc-Food-Processing.png"
+  },
+  {
+    "id": 8,
+    "title": "LL.B. (Hons) – Bachelor of Laws",
+    "description": "The four-year academic programme would enable students to pursue a range of fundamental topics in law and the legal system. Law is much more than principles and provisions-it is about justice, equity and fairness as well as the values around which societies organised themselves through orderly institutions.",
+    "rating": 4,
+    "tuitionFees": "26k",
+    "img": "https://www.studying-in-uk.org/wp-content/uploads/2019/02/best-uk-universities-to-study-law-696x408.jpg"
+  },
+  {
+    "id": 9,
+    "title": "B. Pharm – Bachelor of Pharmacy",
+    "description": "Pharmacists are the key players in a wide array of health care settings. Today’s pharmacists are playing a crucial role in preparing world class medicines & other health care products, patient medication management and its safety. The rapid expansion of pharmaceutical sciences, specially in pharmaceutical industries, hospitals, clinics and community pharmacy have created lot of opportunities for pharmacists, as mentioned in the career opportunities section.",
+    "tuitionFees": "30k",
+    "rating": 4,
+    "img": "http://kmpcp.org/wp-content/uploads/2020/09/b-pharm-1.jpg"
+  }
+]
