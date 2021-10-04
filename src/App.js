@@ -9,6 +9,7 @@ import {
 } from "react-router-dom";
 import About from './pages/About/About';
 import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -16,6 +17,9 @@ function App() {
       <Router>
         <Header></Header>
         <Switch>
+          <Route exact path="/">
+            <Home/>
+          </Route>
           <Route path="/home">
             <Home/>
           </Route>
@@ -35,6 +39,7 @@ function App() {
             <Home/>
           </Route>
         </Switch>
+        <Footer/>
       </Router>
     </div>
   );

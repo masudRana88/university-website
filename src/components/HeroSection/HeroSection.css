@@ -26,8 +26,8 @@
 .hero-text h1{
     font-size:50px
 }
-.hero-text button {
-    border-radius: 2px;
+.get-started-button {
+    border-radius: 3px;
   border: none;
   outline: 0;
   display: inline-block;
@@ -38,7 +38,7 @@
   cursor: pointer;
 }
 
-.hero-text button:hover {
+.get-started-button:hover {
   background-color: #2D3092;
   color: white;
 }
