@@ -7,7 +7,7 @@ const Contact = () => {
             <h2 className="section-title text-center">Get in Touch</h2>
             <div className="d-flex">
                 <div className="w-50 ms-3">
-                    <img className="img-fluid" src={img} alt="" />
+                    <img className="img-fluid rounded" src={img} alt="" />
                 </div>
                 <div className="w-50 ms-3 me-3">
                     <div class="mb-3">
