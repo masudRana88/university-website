@@ -21,9 +21,9 @@ const Coursess = () => {
                                 <p className="card-text">{course.description.slice(0, 150)}...</p>
                                 <p> <span className="fw-bold">Reviews : </span><Rating
                                     placeholderRating={course.rating}
-                                    emptySymbol={<i class="bi bi-star"></i>}
-                                    placeholderSymbol={<i class="bi bi-star-fill"></i>}
-                                    fullSymbol={<i class="bi bi-star-fill"></i>} />
+                                    emptySymbol={<i className="bi bi-star"></i>}
+                                    placeholderSymbol={<i className="bi bi-star-fill"></i>}
+                                    fullSymbol={<i className="bi bi-star-fill"></i>} />
                                 </p>
                                 <p>
                                     <span  className="fw-bold">Tuition Fees</span> : { course.tuitionFees} / mounts

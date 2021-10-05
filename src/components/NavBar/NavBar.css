@@ -1,3 +1,15 @@
+.my-nav-link{
+    margin-left: 4px;
+    border-radius: 5px;
+}
+.my-nav-link:hover{
+    background-color: #4b4c99;
+    color: white !important;
+}
+.my-nav-link.active{
+    background-color: #4b4c99;
+    color: white !important;
+}
 .btn-reguler{
     outline: #2A2C7F;
     border: 1px solid #6d6eb6;

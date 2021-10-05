@@ -5,7 +5,6 @@ import './PopulerCourses.css'
 const PopulerCourses = () => {
     const courses = useCoursess();
     const populerCources = courses.filter(course => course.rating === 5);
-    console.log(populerCources)
     return (
         <div className="container coursess-container">
             <h6 className="text-center section-name">Popular Courses</h6>
